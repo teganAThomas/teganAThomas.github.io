@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tegan A. Thomas # the website title (if blank, full name will be used instead)
+title: Tegan A. Thomas - Computational Astro # the website title (if blank, full name will be used instead)
 first_name: Tegan
 middle_name: A.
 last_name: Thomas
@@ -116,7 +116,7 @@ contact_note: >
 #cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-#google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: "2M0UpHEUA1EEJzVo42ulz4WdVnRgh7nhv9_m0e4yIcI" 
 #bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -383,7 +383,6 @@ enable_project_categories: true # enables categorization of projects into multip
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 
-google_site_verification: "2M0UpHEUA1EEJzVo42ulz4WdVnRgh7nhv9_m0e4yIcI"
 
 # -----------------------------------------------------------------------------
 # Library versions
