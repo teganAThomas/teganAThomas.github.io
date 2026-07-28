@@ -372,7 +372,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 
 enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
-enable_google_verification: false # enables google site verification
+enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
@@ -382,6 +382,8 @@ enable_navbar_social: false # enables displaying social links in the navbar on t
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+
+google_site_verification: "2M0UpHEUA1EEJzVo42ulz4WdVnRgh7nhv9_m0e4yIcI"
 
 # -----------------------------------------------------------------------------
 # Library versions
