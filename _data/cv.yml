@@ -11,6 +11,12 @@
 - title: Education
   type: time_table
   contents:
+  - title: PhD in Astronomy
+      institution: University of Virginia
+      year: 2025-present
+      description:
+        - As a PhD student at UVA I work under Dr. Shane Davis on post-processing radiative GRMHD simulations of accreting BH systems and comparing simulations to observations. 
+        
     - title: Bachelors of Science
       institution: Washington University in St. Louis
       year: 2021-2025
@@ -26,19 +32,19 @@
   contents:
     - title: National Society of Black Physicists/Smithsonian Astrophysical Observatory EHT Scholar
       institution: Smithsonian Astrophysical Observatory, Cambridge, Massachusetts
-      year: 2024-present
+      year: 2024-2025
       description:
         - Through the EHT Scholar program, I began working with Dr. Angelo Ricarte investigating the observational characteristics of near-maximal spin SMBHs.
         - As part of the program I gave both a mid-program and final presentation on my research, and will also present my research at the 245th AAS Winter meeting.
     - title: Physics Research Experiences for Undergraduates Student
       institution: University of Illinois Urbana-Champaign, Urbana, Illinois
-      year: 2023-present
+      year: 2023-2025
       description:
         - As part of the Physics REU program I worked with Dr. Charles F. Gammie exploring modified gravity theories in simulated images of SMBHs.
         - With the program I gave both a mid-program and final presentation. Additionally, I gave a talk at the Illinois Summer Research Program Alliance Symposium and a poster presentation at the 243rd AAS Winter meeting.
     - title: Undergraduate Research Assistant
       institution: Washington Unviersity in St. Louis, St. Louis, Missouri
-      year: 2022-present
+      year: 2022-2025
       description:
         - At WashU, I worked with Dr. Yajie Yuan creating a scheme for making interactive 3D visualizations of the magnetic field lines around neutron stars.
         - I presented my work at the 2023 and 2024 Conferences for Undergraduate Women in Physics and at the 2023 WashU Physics Research Symposium.
