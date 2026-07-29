@@ -11,12 +11,6 @@
 - title: Education
   type: time_table
   contents:
-  - title: PhD in Astronomy
-      institution: University of Virginia
-      year: 2025-present
-      description:
-        - As a PhD student at UVA I work under Dr. Shane Davis on post-processing radiative GRMHD simulations of accreting BH systems and comparing simulations to observations. 
-        
     - title: Bachelors of Science
       institution: Washington University in St. Louis
       year: 2021-2025
