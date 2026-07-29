@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: computational astro, tegan thomas, academic website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 450450bh.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -67,7 +67,7 @@ serve_schema_org: true # Include Schema.org in the HTML head
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: thomas-03 # your GitHub user name
+github_username: teganAThomas # your GitHub user name
 #gitlab_username: # your GitLab user name
 x_username: thomas_03_327
 #mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -283,8 +283,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Thomas]
+  first_name: [Tegan A., T. A.]
 
   style: apa
   locale: en
